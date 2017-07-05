@@ -1,0 +1,7 @@
+{
+  "name": "rudi",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "Dan Coates <mail@dancoat.es>",
+  "license": "MIT"
+}
