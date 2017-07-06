@@ -34,3 +34,20 @@ API
 
 options
 - Whether to nuke files that exist in the folder but not in the generator
+
+
+create a .rudi file that contains info about generation
+
+
+Tech
+
+- Use node-git to do git-like stuff it terms of comparisons
+
+
+Tricky parts
+
+- How to handle generators with multiple options? (the output will be different depending on what you choose...)
+- How to specify environment variables from template files (could be really hard) - probably best to allow for find and replaces?
+
+
+
